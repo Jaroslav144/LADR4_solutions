@@ -1,4 +1,4 @@
-# Solutions for Linear Algebra Done Right (4th edition)
+# Solutions to Linear Algebra Done Right (4th edition)
 ## Contents
 [Chapter 6](solutions/chapter6.pdf)
 
