@@ -4,6 +4,8 @@
 
 [Chapter 6](solutions/chapter6.pdf)
 
+[Chapter 7](solutions/chapter7.pdf)
+
 ## Comments
 I self study Axler's "Linear Algebra Done Right" and this repository contains my solutions to the problems in it.
 
